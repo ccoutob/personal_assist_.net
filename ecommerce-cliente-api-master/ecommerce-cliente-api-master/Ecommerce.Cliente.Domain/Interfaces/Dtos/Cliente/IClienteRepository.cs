@@ -1,4 +1,5 @@
 ﻿using Ecommerce.Cliente.Domain.Entities;
+using System.Collections.Generic;
 
 namespace Ecommerce.Cliente.Domain.Interfaces
 {

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ecommerce.Cliente.Domain
-build_property.ProjectDir = C:\Users\labsfiap\Downloads\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\
+build_property.ProjectDir = C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

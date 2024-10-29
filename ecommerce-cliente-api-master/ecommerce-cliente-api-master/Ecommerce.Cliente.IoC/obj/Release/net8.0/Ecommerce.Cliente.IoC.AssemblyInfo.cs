@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerce.Cliente.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9490d866cc5715a6f953785bf30ba867764f19ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerce.Cliente.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerce.Cliente.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
