@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ecommerce-cliente-api-master",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.API",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.API\\bin",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.API\\obj",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.Domain",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.Domain\\Entities",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.IoC",
+    "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.IoC\\bin"
   ],
+  "SelectedNode": "\\ecommerce-cliente-api-master\\ecommerce-cliente-api-master\\Ecommerce.Cliente.API\\Ecommerce.Cliente.API.csproj",
   "PreviewInSolutionExplorer": false
 }

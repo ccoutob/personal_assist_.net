@@ -1,0 +1,13 @@
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.sourcelink.json
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\bin\Debug\net8.0\Ecommerce.Cliente.Domain.deps.json
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\bin\Debug\net8.0\Ecommerce.Cliente.Domain.dll
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\bin\Debug\net8.0\Ecommerce.Cliente.Domain.pdb
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.dll
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\refint\Ecommerce.Cliente.Domain.dll
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\Ecommerce.Cliente.Domain.pdb
+C:\Users\labsfiap\Desktop\oi\personal_assist_.net\ecommerce-cliente-api-master\ecommerce-cliente-api-master\Ecommerce.Cliente.Domain\obj\Debug\net8.0\ref\Ecommerce.Cliente.Domain.dll
